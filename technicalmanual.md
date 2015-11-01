@@ -70,7 +70,8 @@ Although you may be responsible for day-to-day management of contractors, ultima
 ## Building a New Site
 
 ### The Waterfall
-Blaze operates on a ‘waterfall’ process. That means when a new site comes in, it goes from the account manager to you for scoping. Once the scope has been created it goes back to the account manager for approval. Once approved, the account manager sends it for design.
+We operate on a ‘waterfall’ process. That means when a new site comes in, it goes from the account manager to you for scoping. Once the scope has been created it goes back to the account manager for approval. Once approved, the account manager sends it for design.
+
 Once the design has been signed off by the client, the account manager will give approval to begin the build.
 You will probably not have any text content or images at this stage. Don’t let that stop you.
 Please review the embedded document for an idea of the waterfall process we follow:
