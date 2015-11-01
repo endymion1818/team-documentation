@@ -24,7 +24,7 @@ It must never become apparent to our clients that we are using an external contr
 #### Communication Standards
 Communicating with clients must always be done in conjunction with the account manager. It must be considered carefully, be polite, and done in a professional manner.
 Ensure that all information to and from clients is recorded for later reference.
-All Emails to and from the client must be stored in the appropriate job wallet.
+All Emails to and from the client must be stored in the appropriate project folder.
 
 #### Company Processes
 Please fill in
