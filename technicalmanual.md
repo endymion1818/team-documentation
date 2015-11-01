@@ -1,10 +1,10 @@
 
 
 # Digital Development Technical Manual 
-_### Contributors: 	Ben Read_
-_### Date: 			24 July 2015_
-_### Location:		_
-_### Version: 		0.4_
+### Contributors: 	Ben Read
+### Date: 			24 July 2015
+### Location:		
+### Version: 		0.4
 
 ---
 ## How We Fit In
@@ -196,11 +196,11 @@ Data recovery and reestablishment of DNS records is to be a priority. We are cur
 ## Useful Tools Directory
 
 #### Research
-Mozilla Developer Network 
-PatternTap | ZURB Library 
+- [Mozilla Developer Network](https://developer.mozilla.org/en-US/) 
+- [PatternTap | ZURB Library](zurb.com/patterntap/)
 
 #### Scoping
-Online Diagram Software and Flow Chart Software - Gliffy 
+- [Online Diagram Software and Flow Chart Software - Gliffy](https://www.gliffy.com/)
 
 #### Build Tools
 - [Kraken Image Optimizer](https://kraken.io/)
