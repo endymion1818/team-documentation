@@ -1,10 +1,10 @@
 
 
 # Digital Development Technical Manual 
-### Contributors: 	Ben Read
-### Date: 			24 July 2015
-### Location:		
-### Version: 		0.4
+##### Contributors: 	Ben Read
+##### Date: 			24 July 2015
+##### Location:		
+##### Version: 		0.4
 
 ---
 ## How We Fit In
