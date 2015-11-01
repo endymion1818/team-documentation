@@ -62,8 +62,11 @@ You will have to choose the best tool for doing this, but I have had great succe
 _Context is important because it helps developers anticipate what you might be talking about. You will find that when you have contextual communication, it is much easier to obtain the communication that you need from other developers._
 
 It is strongly recommended that you become involved whenever contractors are called in so you can parachute in as required. It also helps to know if changes are being made to a website so that if an issue is revealed it’s source can potentially be identified more easily.
+
 Although you may be responsible for day-to-day management of contractors, ultimate responsibility and decisions belong to the MD.
+
 ---
+
 ## Building a New Site
 
 ### The Waterfall
