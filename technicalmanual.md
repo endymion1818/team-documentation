@@ -41,9 +41,9 @@ Throughout the project, notify the account manager of any delays or possible iss
 Projects should be completed on a testing server.
 Hosting on our development server avoids some potential problems:
 
--Potential theft of work
--Compromising the clients live site or server
--Allowing us to control how much the client sees and when
+- Potential theft of work
+- Compromising the clients live site or server
+- Allowing us to control how much the client sees and when
 
 Work should be moved to the live domain only after testing, client approval and final billing.
 
