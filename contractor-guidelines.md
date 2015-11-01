@@ -33,7 +33,7 @@ You must inform us if you have made a purchase of a plugin or other code which m
 
 ## Environments & Version Control
 You can develop your website on your local machine in the way that seems best to you. 
-We do ask that you submit your code to our Github repository on a regular basis, in line with tasks you have been set: (https://github.com/orgs/blazecommunication/).
+We do ask that you submit your code to our Git repository on a regular basis, in line with tasks you have been set.
 
 ## Management
 The Product Owner will look after your overall requirements including payment and any further agreements you may wish to make.
