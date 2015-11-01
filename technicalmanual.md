@@ -18,9 +18,7 @@ Please fill in
 ##### 4. The Future
 Requirements for websites will grow. Client expectations will continue to mature as the web matures. We must deliver to client expectations even when these expectations are not explicitly known to us.
 ##### 5. To our Clients
-The Web Development team
-There is a web development team. You are the on site representative of that team. Other developers are contracted as required. You will probably be involved in assisting them. We will cover this later.
-It must never become apparent to our clients that we are using an external contractor unless it is explicitly stated by the MD or an account manager.
+
 #### Communication Standards
 Communicating with clients must always be done in conjunction with the account manager. It must be considered carefully, be polite, and done in a professional manner.
 Ensure that all information to and from clients is recorded for later reference.
