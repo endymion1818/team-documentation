@@ -30,7 +30,6 @@
 - Clear cache
 - Database backup
 - Social Media connection tested
-- Blaze SEO Tools added
 - Search working
 - Update plugins/WP version
 
