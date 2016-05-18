@@ -5,6 +5,7 @@
 - Favicon Checked
 - Legal, terms, copyright etc added
 - CSS / JS / images optimised & minified
+- WPScan run, vulnerabilities minimised
 
 ## Launch
 ### General
