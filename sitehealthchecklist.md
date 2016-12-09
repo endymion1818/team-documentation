@@ -1,4 +1,4 @@
-# Website Checklist
+# Site Health Checklist for: http://test.com
 
 This checklist is a brief analysis of your site to show how it can be improved to ensure it's drawing in visitors and converting visitors to customers.
 
@@ -22,31 +22,45 @@ These goals can be achieved in 0 steps from the home page. Consider reducing thi
 
 ### Accessibility
 
-### Colours
+We used WAVE to analyse your accessibility and compliance with accessibility guidelines [WCAG 2.0](https://www.w3.org/TR/WCAG20/).
 
-Improving your contrast ratio can improve the likelihood that users will read your content. If they read your content, they are more likely to convert to customers. 
+#### Errors
+- 1 X Image button missing alternative text
+- 1 X Missing form label
+- 1 X Document language missing
+- 1 X Empty button
 
-We checked your site with this tool http://leaverou.github.io/contrast-ratio/ and found you contrast ratio is 8.6, which meets WCAG 2.0 AAA guidelines.
+These must be eliminated as soon as possible to meet accessibility guidelines.
 
-### Font sizes
+#### Warnings
 
-Type should be at least 14px. Touch targets (links, buttons) should be at least 72px wide by 45px high. The following elements do not meet these guidelines:
+- 2 X Redundant alternative text
+- 4 X A nearby image has the same alternative text
+- 1 X Fieldset missing legend
+- 7 X Redundant link
+- 3 X Redundant title text
 
-- Footer links
-- Home page testimonial text
+These should be eliminated as soon as possible.
 
-### Use of absolute positioning
+#### Featuers
 
-Absolute positioned elements should be avoided because they remove content from the flow of the document. This makes it harder to use for screen readers and other accessibility tools.
+There is a carousel on the home page with text captions. This is not [accessibility compliant](http://www.creativebloq.com/accessibility-expert-warns-stop-using-carousels-7133778). We recommend using another means to display this content.
 
 ## Code quality
 
 ### W3C Validation Warnings / Errors
 
-This site has 00 errors on the [W3C Validation Checker](https://validator.w3.org/):
+This site has 00 errors and 00 warnings on the [W3C Validation Checker](https://validator.w3.org/):
 
 - Error 1:
 - Error 2: 
+
+These errors should be fixed as soon as possible. Failure to fix these errors could result in browsers being unable to render the website.
+
+- Warning 1
+- Warning 2
+
+These warning should be fixed as soon as possible.
 
 ## Conversion Optimisation
 
@@ -82,14 +96,11 @@ Good Calls to Action (buttons, callout boxes, larger text with links) are proven
 - In the navigation bar
 - In the footer
 
-### Dropoffs
+We recommend adding CTAs in more prominent places, such near the top of the page, and below the main content area.
 
-Analytics revealed that these pages have a high percentage of traffic, but large droppoffs:
+### Analytics
 
-- Home
-- Contact Us
-
-You could improve conversions by reworking these pages.
+Analytics access has not been given.
 
 ## Security
 
@@ -98,6 +109,8 @@ We have tested your site with **WP Scan** security testing tool and found the fo
 - You have an insecure plugin: 
 - Your version of Wordpress is being exposed
 - Your theme is out of date
+- Your site does not have an SSL Certificate. This will negatively affect conversions and search rankings.   
+- Your version of Joomla! is prior to 3.6.4, which could have significant security risks.
 
 ## SEO Health
 
