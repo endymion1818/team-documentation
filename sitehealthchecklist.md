@@ -1,4 +1,4 @@
-# Site Health Checklist for: http://test.com
+# Website Checklist for: http://test.com
 
 This checklist is a brief analysis of your site to show how it can be improved to ensure it's drawing in visitors and converting visitors to customers.
 
@@ -96,11 +96,14 @@ Good Calls to Action (buttons, callout boxes, larger text with links) are proven
 - In the navigation bar
 - In the footer
 
-We recommend adding CTAs in more prominent places, such near the top of the page, and below the main content area.
+### Dropoffs
 
-### Analytics
+Analytics revealed that these pages have a high percentage of traffic, but large droppoffs:
 
-Analytics access has not been given.
+- Home
+- Contact Us
+
+You could improve conversions by reworking these pages.
 
 ## Security
 
@@ -109,12 +112,10 @@ We have tested your site with **WP Scan** security testing tool and found the fo
 - You have an insecure plugin: 
 - Your version of Wordpress is being exposed
 - Your theme is out of date
-- Your site does not have an SSL Certificate. This will negatively affect conversions and search rankings.   
-- Your version of Joomla! is prior to 3.6.4, which could have significant security risks.
 
 ## SEO Health
 
-Using Google Webmaster Tools revealed the following issues:
+Using http://seositecheckup.com revealed the following issues:
 
 - 404 errors: please redirect the following URLs that are resulting in 'page not found' messages:
 	- 1)
