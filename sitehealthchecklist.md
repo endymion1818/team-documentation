@@ -6,9 +6,11 @@ This checklist is a brief analysis of your site to show how it can be improved t
 
 ### 1. Is this page mobile friendly?
 
-We checked your site with the following tool: https://search.google.com/search-console/mobile-friendly
+We checked your site with the Google Mobile Friendly tool. Congratulations, your site is mobile friendly!
 
-Congratulations, your site is mobile friendly!
+- Text is big enough
+- Elements large enough to click
+- Viewport is set
 
 ### 2. Goal Completion
 
@@ -22,7 +24,7 @@ These goals can be achieved in 0 steps from the home page. Consider reducing thi
 
 ### Accessibility
 
-We used WAVE to analyse your accessibility and compliance with accessibility guidelines [WCAG 2.0](https://www.w3.org/TR/WCAG20/).
+We ((used WAVE to)) analyse your accessibility and compliance with accessibility guidelines [WCAG 2.0](https://www.w3.org/TR/WCAG20/).
 
 #### Errors
 - 1 X Image button missing alternative text
@@ -64,13 +66,27 @@ These warning should be fixed as soon as possible.
 
 ## Conversion Optimisation
 
+### Analytics
+
+Bounce rate: 00.00%
+Average session duration: 00 seconds
+% new sesssions: 00.00%
+
+Popular pages:
+- / (home page) 000 sessions, 00.0% dropoff
+
+This indicates that you are getting a good hit of new visitors on a regular basis, but are retaining few of them. We recommend applying as many of the suggestions in this document as possible in order to retain more business.
+
+Additionally, we believe more could be done to surface new content to your returning visitors in order to convert bystanders into participants / customers. For example, encouraging visitors to sign up to an email newsletter and regularly send content to them.
+
 ### Performance
 
-We have checked your site with these performance checkers:
+Industry research has evidenced that there is correlation between bounce rate (how quickly users abandon a site) with performance (how quickly the site loads enough for them to use). We have checked your site with a few industry-standard performance checkers:
 
-https://www.webpagetest.org/  
-https://tools.pingdom.com/
-
+((
+	https://www.webpagetest.org/  
+	https://tools.pingdom.com/
+))
 The standout results are:
 
 - Your site loaded in 00 seconds. Critical dropoff point is 3 seconds
@@ -96,18 +112,24 @@ Good Calls to Action (buttons, callout boxes, larger text with links) are proven
 - In the navigation bar
 - In the footer
 
-### Dropoffs
+We recommend that more attention is given to user journeys to ensure that your website is an effective sales funnel.
 
-Analytics revealed that these pages have a high percentage of traffic, but large droppoffs:
+#### Information Architecture
 
-- Home
-- Contact Us
+we found that some of your provided information is not always placed in a consistent context.
 
-You could improve conversions by reworking these pages.
+- About us: The content "Explore our vision, mission & values" would be better utilised on the home page
+- Why & When: This page is not getting a lot of hits, we believe this is beacause the title is confusing. The content is really informative and could be utilised on the About or Home page to better increase conversions.
 
 ## Security
 
-We have tested your site with **WP Scan** security testing tool and found the following results:
+We have tested your site and found the following results:
+
+- Your site does not have an SSL certificate
+
+An SSL Certificate that ensures your content is encrypted end-to-end is a new standard for websites. Google will soon start to display a "site is not secure" message in the address bar of sites without an SSL certificate. Additionally, serving your content over HTTPS will allow your website to download faster.
+
+We have tested your site with ((**WP Scan**)) security testing tool and found the following results:
 
 - You have an insecure plugin: 
 - Your version of Wordpress is being exposed
@@ -115,7 +137,7 @@ We have tested your site with **WP Scan** security testing tool and found the fo
 
 ## SEO Health
 
-Using http://seositecheckup.com revealed the following issues:
+Using ((http://seositecheckup.com)) revealed the following issues:
 
 - 404 errors: please redirect the following URLs that are resulting in 'page not found' messages:
 	- 1)
