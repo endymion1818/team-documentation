@@ -114,7 +114,9 @@ Good Calls to Action (buttons, callout boxes, larger text with links) are proven
 
 We recommend that more attention is given to user journeys to ensure that your website is an effective sales funnel.
 
-#### Information Architecture
+### Information Architecture
+
+Information Architecture is an analysis of your site's content and layout. It ensures that information is in an appropriate context and is easily accessibly to your visitors. The aim is to reduce cognitive load so that visitors feel comfortable and confident using your site. Good information architecture leads to increased goodwill towards your brand and creates an environment conducive to increased conversions.
 
 we found that some of your provided information is not always placed in a consistent context.
 
