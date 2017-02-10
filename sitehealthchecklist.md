@@ -25,7 +25,7 @@ We have identified the following goals for your visitors:
 
 These goals can be achieved in 0 steps from the home page. Consider reducing this.
 
-### Accessibility
+### 3. Accessibility
 
 Accessibility is important not only for those using assistive technology but for those who may be temporarily disabled. Improving accessibility always improves your conversion opportunities and SEO. We ((used WAVE to)) analyse your accessibility and compliance with accessibility guidelines [WCAG 2.0](https://www.w3.org/TR/WCAG20/).
 
@@ -73,7 +73,7 @@ These warning should be fixed as soon as possible.
 
 ## Conversion Optimisation
 
-### Analytics
+### 1. Analytics
 
 Bounce rate: 00.00%
 Average session duration: 00 seconds
@@ -86,7 +86,7 @@ This indicates that you are getting a good hit of new visitors on a regular basi
 
 Additionally, we believe more could be done to surface new content to your returning visitors in order to convert bystanders into participants / customers. For example, encouraging visitors to sign up to an email newsletter and regularly send content to them.
 
-### Performance
+### 2. Performance
 
 Industry research has evidenced that there is correlation between bounce rate (how quickly users abandon a site) with performance (how quickly the site loads enough for them to use). We have checked your site with a few industry-standard performance checkers:
 
@@ -103,7 +103,7 @@ The standout results are:
 	- Remove query strings from static resources
 
 
-### Red Routes
+### 3. Red Routes
 
 Red routes make it easier for visitors to achieve their objectives. If you obscure them from the visitor, they will become frustrated and your conversions decrease. The following red routes have been identified but are not shown in the main menu:
 
@@ -111,7 +111,7 @@ Red routes make it easier for visitors to achieve their objectives. If you obscu
 - Pricing
 - Contact Us
 
-### CTAs
+### 4. CTAs
 
 Good Calls to Action (buttons, callout boxes, larger text with links) are proven to increase conversions. You can improve conversions by adding CTAs to the following places:
 
@@ -121,7 +121,7 @@ Good Calls to Action (buttons, callout boxes, larger text with links) are proven
 
 We recommend that more attention is given to user journeys to ensure that your website is an effective sales funnel.
 
-### Information Architecture
+### 5. Information Architecture
 
 Information Architecture is an analysis of your site's content and layout. It ensures that information is in an appropriate context and is easily accessibly to your visitors. The aim is to reduce cognitive load so that visitors feel comfortable and confident using your site. Good information architecture leads to increased goodwill towards your brand and creates an environment conducive to increased conversions.
 
