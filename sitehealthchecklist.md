@@ -2,6 +2,9 @@
 
 This checklist is a brief analysis of your site to show how it can be improved to ensure it's drawing in visitors and converting visitors to customers.
 
+CMS: Wordpress  
+Pages:  
+
 ## Usability
 
 ### 1. Is this page mobile friendly?
@@ -34,6 +37,9 @@ Accessibility is important not only for those using assistive technology but for
 
 These must be eliminated as soon as possible to meet accessibility guidelines.
 
+#### 54 Low Contrast Errors
+54 areas of your site have very low contrast which fails WCAG AA standard at normal and large size text.
+
 #### Warnings
 
 - 2 X Redundant alternative text
@@ -44,9 +50,10 @@ These must be eliminated as soon as possible to meet accessibility guidelines.
 
 These should be eliminated as soon as possible.
 
-#### Featuers
+### 4. Broken Links
 
-There is a carousel on the home page with text captions. This is not [accessibility compliant](http://www.creativebloq.com/accessibility-expert-warns-stop-using-carousels-7133778). We recommend using another means to display this content.
+Your site contains 38 broken links. Broken links cause user frustration resulting in loss of good will and conversions. We recommend fixing these links as soon as possible to uphold your reputation online.
+
 
 ## Code quality
 
