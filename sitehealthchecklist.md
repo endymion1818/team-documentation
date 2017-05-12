@@ -35,20 +35,8 @@ Accessibility is important not only for those using assistive technology but for
 - 1 X Document language missing
 - 1 X Empty button
 
-These must be eliminated as soon as possible to meet accessibility guidelines.
+These should be eliminated as soon as possible to meet accessibility guidelines.
 
-#### 54 Low Contrast Errors
-54 areas of your site have very low contrast which fails WCAG AA standard at normal and large size text.
-
-#### Warnings
-
-- 2 X Redundant alternative text
-- 4 X A nearby image has the same alternative text
-- 1 X Fieldset missing legend
-- 7 X Redundant link
-- 3 X Redundant title text
-
-These should be eliminated as soon as possible.
 
 ### 4. Broken Links
 
@@ -59,17 +47,8 @@ Your site contains 38 broken links. Broken links cause user frustration resultin
 
 ### W3C Validation Warnings / Errors
 
-This site has 00 errors and 00 warnings on the [W3C Validation Checker](https://validator.w3.org/):
+This site has 00 errors on the [W3C Validation Checker](https://validator.w3.org/). These errors should be fixed as soon as possible. 
 
-- Error 1:
-- Error 2: 
-
-These errors should be fixed as soon as possible. Failure to fix these errors could result in browsers being unable to render the website.
-
-- Warning 1
-- Warning 2
-
-These warning should be fixed as soon as possible.
 
 ## Conversion Optimisation
 
@@ -119,7 +98,6 @@ Good Calls to Action (buttons, callout boxes, larger text with links) are proven
 - In the navigation bar
 - In the footer
 
-We recommend that more attention is given to user journeys to ensure that your website is an effective sales funnel.
 
 ### 5. Information Architecture
 
@@ -129,6 +107,9 @@ we found that some of your provided information is not always placed in a consis
 
 - About us: The content "Explore our vision, mission & values" would be better utilised on the home page
 - Why & When: This page is not getting a lot of hits, we believe this is beacause the title is confusing. The content is really informative and could be utilised on the About or Home page to better increase conversions.
+
+We recommend that more attention is given to user journeys to ensure that your website is an effective sales funnel.
+
 
 ## Security
 
