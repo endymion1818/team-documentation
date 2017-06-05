@@ -40,7 +40,9 @@ These should be eliminated as soon as possible to meet accessibility guidelines.
 
 ### 4. Broken Links
 
-Your site contains 38 broken links. Broken links cause user frustration resulting in loss of good will and conversions. We recommend fixing these links as soon as possible to uphold your reputation online.
+Broken links cause user frustration resulting in loss of good will and conversions.Maintaining links these links upholds your reputation online. 
+
+Congtratulations, your site contains 0 broken links.
 
 
 ## Code quality
