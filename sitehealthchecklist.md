@@ -27,7 +27,7 @@ These goals can be achieved in 0 steps from the home page. Consider reducing thi
 
 ### 3. Accessibility
 
-Accessibility is important not only for those using assistive technology but for those who may be temporarily disabled. Improving accessibility always improves your conversion opportunities and SEO. We ((used WAVE to)) analyse your accessibility and compliance with accessibility guidelines [WCAG 2.0](https://www.w3.org/TR/WCAG20/).
+Accessibility is important not only for those using assistive technology but for those who may be temporarily disabled or who have less-than-perfect eyesight. Improving accessibility always improves your conversion opportunities and SEO. We ((used WAVE to)) analyse your accessibility and compliance with accessibility guidelines [WCAG 2.0](https://www.w3.org/TR/WCAG20/).
 
 #### Errors
 - 1 X Image button missing alternative text
