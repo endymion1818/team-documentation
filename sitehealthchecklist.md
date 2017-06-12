@@ -45,6 +45,30 @@ Broken links cause user frustration resulting in loss of good will and conversio
 Congtratulations, your site contains 0 broken links.
 
 
+### 5. CTAs
+
+Good Calls to Action (buttons, callout boxes, larger text with links) are proven to increase conversions. You can improve conversions by adding CTAs to the following places:
+
+- On the landing page
+- In the navigation bar
+- In the footer
+
+
+### 6. Information Architecture
+
+Information Architecture is an analysis of your site's content and layout. It ensures that information is in an appropriate context and is easily accessibly to your visitors. The aim is to reduce cognitive load so that visitors feel comfortable and confident using your site. Good information architecture leads to increased goodwill towards your brand and creates an environment conducive to increased conversions.
+
+we found that some of your provided information is not always placed in a consistent context.
+
+- About us: The content "Explore our vision, mission & values" would be better utilised on the home page
+- Why & When: This page is not getting a lot of hits, we believe this is beacause the title is confusing. The content is really informative and could be utilised on the About or Home page to better increase conversions.
+
+We recommend that more attention is given to user journeys to ensure that your website is an effective sales funnel.
+
+the following red routes were found but not available in your top navigation area:
+
+- About Us
+
 ## Code quality
 
 ### W3C Validation Warnings / Errors
@@ -69,48 +93,35 @@ Additionally, we believe more could be done to surface new content to your retur
 
 ### 2. Performance
 
-Industry research has evidenced that there is correlation between bounce rate (how quickly users abandon a site) with performance (how quickly the site loads enough for them to use). We have checked your site with a few industry-standard performance checkers:
+Industry research has evidenced that there is correlation between bounce rate (how quickly users abandon a site) with performance (how quickly the site loads enough for them to use). We have checked your site with a few industry-standard performance checkers. The standout results are:
 
-((
-	https://www.webpagetest.org/  
-	https://tools.pingdom.com/
-))
-The standout results are:
-
-- Your site loaded in 00 seconds. Critical dropoff point is 3 seconds
+- Your site was document complete in about 9.261 seconds and fully loaded at 11.961 seconds. Critical dropoff point is 3 seconds
 - We recommend you improve your site by
-	- Enabling Gzip
-	- Compressing images
-	- Remove query strings from static resources
 
+#### Reduce Time to First Byte
+This typically means your site's server is slow. If you improved your hosting this would likely reduce significantly. 
 
-### 3. Red Routes
+#### Caching static content
+This means that visitors who return will be able to access the site much faster than the first time.
 
-Red routes make it easier for visitors to achieve their objectives. If you obscure them from the visitor, they will become frustrated and your conversions decrease. The following red routes have been identified but are not shown in the main menu:
+#### Serve static content via a CDN
+A CDN is optimised for speed of delivery so it delivers your content faster, allowing the site to render more quickly.
 
-- About
-- Pricing
-- Contact Us
+#### Reducing the number of HTTP requests 
+Currently your website is requesting 117 resources. This is extremely high. It is possible to reduce this figure massively, up to 3 / 4 resources where possible. Ths means your site will be much smaller and faster, but won't sacrifice how it looks or feels to visitors. 
 
-### 4. CTAs
+#### Compressing images
+Images make up 25% of your website. if you compress them, less data will need to be transferred, further reducing time. 
 
-Good Calls to Action (buttons, callout boxes, larger text with links) are proven to increase conversions. You can improve conversions by adding CTAs to the following places:
+#### Minifying JS & CSS
+Minifying files removes unecessary space allowing them to be transferred in smaller packets.
 
-- On the landing page
-- In the navigation bar
-- In the footer
+#### Concatenating JS & CSS
+Concatenating, or joining, these types of files, reduces requests further. Each request is a performance cost.
 
+#### Reducing unused JS & CSS
+Your website is 42.9% Javascript. This is huge and it is highly likely most of it is unecessary and not used by your website.
 
-### 5. Information Architecture
-
-Information Architecture is an analysis of your site's content and layout. It ensures that information is in an appropriate context and is easily accessibly to your visitors. The aim is to reduce cognitive load so that visitors feel comfortable and confident using your site. Good information architecture leads to increased goodwill towards your brand and creates an environment conducive to increased conversions.
-
-we found that some of your provided information is not always placed in a consistent context.
-
-- About us: The content "Explore our vision, mission & values" would be better utilised on the home page
-- Why & When: This page is not getting a lot of hits, we believe this is beacause the title is confusing. The content is really informative and could be utilised on the About or Home page to better increase conversions.
-
-We recommend that more attention is given to user journeys to ensure that your website is an effective sales funnel.
 
 
 ## Security
