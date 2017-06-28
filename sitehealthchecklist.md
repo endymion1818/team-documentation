@@ -134,9 +134,13 @@ An SSL Certificate that ensures your content is encrypted end-to-end is a new st
 
 We have tested your site with ((**WP Scan**)) security testing tool and found the following results:
 
-- You have an insecure plugin: 
-- Your version of Wordpress is being exposed
-- Your theme is out of date
+### Your version of Wordpress is out of date
+You are using version 4.7.5, which has a publicly-known vulnerability (host header injection in password reset) which makes your site a target for hackers.
+
+### You have an insecure plugin
+You are using Wordpress Slider Revolution which has 2 serious publicly-known vulnerabilities which are currently being used by hackers in targeted exploits. Earlier this year, thousands of sites were disabled because of this vulnerability. We urge you to update this plugin as soon as possible.
+
+
 
 ## SEO Health
 
