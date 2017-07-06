@@ -3,4 +3,4 @@ Struggling to compile technical documents for your web development team? Use the
 
 Here's how you could use them:
 
-http://deliciousreverie.co.uk/blog/post.php?s=2015-11-01-project-documentation-templates
+https://deliciousreverie.co.uk/post/project-documentation-template/
