@@ -35,7 +35,7 @@ Accessibility is important not only for those using assistive technology but for
 - 1 X Document language missing
 - 1 X Empty button
 
-These should be eliminated as soon as possible to meet accessibility guidelines.
+These should be eliminated as soon as possible to improve conversion opportunities and meet accessibility guidelines.
 
 
 ### 4. Broken Links
