@@ -95,8 +95,11 @@ Additionally, we believe more could be done to surface new content to your retur
 
 Industry research has evidenced that there is correlation between bounce rate (how quickly users abandon a site) with performance (how quickly the site loads enough for them to use). We have checked your site with a few industry-standard performance checkers. The standout results are:
 
-- Your site was document complete in about 9.261 seconds and fully loaded at 11.961 seconds. Critical dropoff point is 3 seconds
-- We recommend you improve your site by
+- Your site took about 11.595 to load. The established critical dropoff point is 3 seconds
+- Loading time has been rated by Google ((**using testmysite.withgoogle.com**)) as POOR with an estimated **31% visitor loss** due to loading time.
+- Your website is slower than top performing sites in your industry, which are around 4.1 seconds
+
+We recommend you improve your site by:
 
 #### Reduce Time to First Byte
 This typically means your site's server is slow. If you improved your hosting this would likely reduce significantly. 
