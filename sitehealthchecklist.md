@@ -17,13 +17,17 @@ We checked your site with the Google Mobile Friendly tool. Congratulations, your
 
 ### 2. Goal Completion
 
-We have identified the following goals for your visitors:
+#### As a potential customer I want to contact you quickly
 
-- As an existing customer I want to log into the site
-- As a potential customer I want to buy a product
-- As a dissatisfied customer I want to contact you quickly
+This goal can be achieved with difficulty:
+1. Complete a contact form
+2. Type out number into phone keypad
 
-These goals can be achieved in 0 steps from the home page. Consider reducing this.
+Consider reducing friction by making your phone number live text and a clickable element.
+
+##### As a potential customer I want to find out what services or product you advertise
+
+This goal can be achieved in 1 step from the home page. Consider reducing this by surfacing relevant content to the home page.
 
 ### 3. Accessibility
 
