@@ -137,7 +137,7 @@ We have tested your site and found the following results:
 
 - Your site does not have an SSL certificate
 
-An SSL Certificate that ensures your content is encrypted end-to-end is a new standard for websites. Google will soon start to display a "site is not secure" message in the address bar of sites without an SSL certificate. Additionally, serving your content over HTTPS will allow your website to download faster.
+An SSL Certificate that ensures your content is encrypted end-to-end is a new standard for websites. Google Chrome and other browsers now display a "site is not secure" message in the address bar of sites without an SSL certificate. Future use of your website may be restricted. 
 
 We have tested your site with ((**WP Scan**)) security testing tool and found the following results:
 
