@@ -16,6 +16,7 @@ We checked your site with the Google Mobile Friendly tool. Congratulations, your
 - Viewport is set
 
 ### 2. Goal Completion
+The purpose of a website is to help visitors to reach a goal you have set. It could be to purchase an item, to contact you, or to become a member. A website can have several goals. we have anticipated the goals below from a users' standpoint.
 
 #### As a potential customer I want to contact you quickly
 
@@ -135,7 +136,7 @@ Your website is 42.9% Javascript. This is huge and it is highly likely most of i
 
 We have tested your site and found the following results:
 
-- Your site does not have an SSL certificate
+### Your site does not have an SSL certificate
 
 An SSL Certificate that ensures your content is encrypted end-to-end is a new standard for websites. Google Chrome and other browsers now display a "site is not secure" message in the address bar of sites without an SSL certificate. Future use of your website may be restricted. 
 
