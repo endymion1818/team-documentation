@@ -42,6 +42,9 @@ Accessibility is important not only for those using assistive technology but for
 
 These should be eliminated as soon as possible to improve conversion opportunities and meet accessibility guidelines.
 
+#### 13 Areas of Low Contrast
+
+Low contrast between the colour of text and the background affects many users. This means that you are turning away good business because a high percentage of visitors that don't have 20/20 vision may not be able to use your site efficiently.
 
 ### 4. Broken Links
 
