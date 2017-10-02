@@ -40,7 +40,7 @@ Accessibility is important not only for those using assistive technology but for
 - 1 X Document language missing
 - 1 X Empty button
 
-These should be eliminated as soon as possible to improve conversion opportunities and meet accessibility guidelines.
+This document fails WCAG AA guidelines and may be penalised by search engines as a result. These should be eliminated as soon as possible to improve conversion opportunities and meet accessibility guidelines.
 
 #### 13 Areas of Low Contrast
 
