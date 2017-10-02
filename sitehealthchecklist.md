@@ -151,6 +151,9 @@ You are using version 4.7.5, which has a publicly-known vulnerability (host head
 ### You have an insecure plugin
 You are using Wordpress Slider Revolution which has 2 serious publicly-known vulnerabilities which are currently being used by hackers in targeted exploits. Earlier this year, thousands of sites were disabled because of this vulnerability. We urge you to update this plugin as soon as possible.
 
+### No Malware, Blacklisting, Defacements
+
+Our security tool could not detect any security compromises.
 
 
 ## SEO Health
@@ -165,3 +168,12 @@ Using ((http://seositecheckup.com)) revealed the following issues:
 - Your site is indexed in Google, here is the search result snippet:
 
 
+## Summary
+
+Your website looks the part of a successful company and visually reflects your market position. However, your trust and value in the eyes of your customers is being eroded by these 3 issues:
+
+1) Poor Performance
+2) Lack of security certificate
+3) Lack of Accessibility awareness
+
+If these issues were addressed we are confident that you will see an increase in time spent on your website by your customers, better google rankings as a result and - more importantly - improved customer goodwill online and offline.
