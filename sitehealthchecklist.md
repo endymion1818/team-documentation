@@ -26,7 +26,7 @@ This goal can be achieved with difficulty:
 
 Consider reducing friction by making your phone number live text and a clickable element.
 
-##### As a potential customer I want to find out what services or product you advertise
+#### As a potential customer I want to find out what services or product you advertise
 
 This goal can be achieved in 1 step from the home page. Consider reducing this by surfacing relevant content to the home page.
 
@@ -50,7 +50,7 @@ Low contrast between the colour of text and the background affects many of your 
 
 Broken links cause user frustration resulting in loss of good will and conversions.Maintaining links these links upholds your reputation online. 
 
-Congtratulations, your site contains 0 broken links.
+Congratulations, your site contains 0 broken links.
 
 
 ### 5. CTAs
@@ -73,7 +73,7 @@ we found that some of your provided information is not always placed in a consis
 
 We recommend that more attention is given to user journeys to ensure that your website is an effective sales funnel.
 
-the following red routes were found but not available in your top navigation area:
+Additionally, the following red routes (quick access for busy, goal-oriented visitors) were found but not available in your top navigation area:
 
 - About Us
 
