@@ -1,4 +1,4 @@
-# Website Checklist for: http://test.com
+# Website Healthcheck for: http://test.com
 
 This checklist is a brief analysis of your site to show how it can be improved to ensure it's drawing in visitors and converting visitors to customers.
 
@@ -103,7 +103,7 @@ Additionally, we believe more could be done to surface new content to your retur
 
 Industry research has evidenced that there is correlation between bounce rate (how quickly users abandon a site) with performance (how quickly the site loads enough for them to use). We have checked your site with a few industry-standard performance checkers. The standout results are:
 
-- Your site took about 11.595 to load. The established critical dropoff point is 3 seconds
+- Your site took about 11.595 seconds to load. The established critical dropoff point is 3 seconds
 - Loading time has been rated by Google ((**using testmysite.withgoogle.com**)) as POOR with an estimated **31% visitor loss** due to loading time.
 - Your website is slower than top performing sites in your industry, which are around 4.1 seconds
 
@@ -143,6 +143,10 @@ We have tested your site and found the following results:
 
 An SSL Certificate that ensures your content is encrypted end-to-end is a new standard for websites. Google Chrome and other browsers now display a "site is not secure" message in the address bar of sites without an SSL certificate. Future use of your website may be restricted. 
 
+### No Malware, Blacklisting, Defacements
+
+Our security tool could not detect any security compromises.
+
 We have tested your site with ((**WP Scan**)) security testing tool and found the following results:
 
 ### Your version of Wordpress is out of date
@@ -151,9 +155,6 @@ You are using version 4.7.5, which has a publicly-known vulnerability (host head
 ### You have an insecure plugin
 You are using Wordpress Slider Revolution which has 2 serious publicly-known vulnerabilities which are currently being used by hackers in targeted exploits. Earlier this year, thousands of sites were disabled because of this vulnerability. We urge you to update this plugin as soon as possible.
 
-### No Malware, Blacklisting, Defacements
-
-Our security tool could not detect any security compromises.
 
 
 ## SEO Health
@@ -176,4 +177,4 @@ Your website looks the part of a successful company and visually reflects your m
 2) Lack of security certificate
 3) Lack of Accessibility awareness
 
-If these issues were addressed we are confident that you will see an increase in time spent on your website by your customers, better google rankings as a result and - more importantly - improved customer goodwill online and offline.
+If these issues were addressed we are confident that you will see an increase in time spent on your website by your customers, better search rankings as a result and - more importantly - improved customer goodwill online and offline.
