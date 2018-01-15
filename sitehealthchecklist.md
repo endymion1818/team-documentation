@@ -44,7 +44,7 @@ This document fails WCAG AA guidelines and may be penalised by search engines as
 
 #### 13 Areas of Low Contrast
 
-Low contrast between the colour of text and the background affects many of your potential customers. This means that you are turning away good business because a high percentage of visitors that don't have 20/20 vision may not be able to use your site efficiently.
+Low contrast between the colour of text and the background affects many of your potential customers. This means that you are turning away good business because a high percentage of visitors that don't have 20/20 vision may not be able to use your site effectively or abandon their task before they are able to complete it.
 
 ### 4. Broken Links
 
