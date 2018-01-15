@@ -110,7 +110,7 @@ Industry research has evidenced that there is correlation between bounce rate (h
 We recommend you improve your site by:
 
 #### Reduce Time to First Byte
-This typically means your site's server is slow. If you improved your hosting this would likely reduce significantly. 
+A slow DNS server, hosting server and a slow-loading application can increase this critical metric, which indicates how long a user sees only a blank screen. Time to First Byte on your site was 1.806 seconds. This is incredibly slow. If you improved your hosting, changed your DNS server and improved your web application this would likely reduce significantly.
 
 #### Caching static content
 This means that visitors who return will be able to access the site much faster than the first time.
@@ -131,7 +131,7 @@ Minifying files removes unecessary space allowing them to be transferred in smal
 Concatenating, or joining, these types of files, reduces requests further. Each request is a performance cost.
 
 #### Reducing unused JS & CSS
-Your website is 42.9% Javascript. This is huge and it is highly likely most of it is unecessary and not used by your website.
+Your website is loading 2.1MB of CSS and JS resources, and only about 25% of this is used by your site. This is a huge burden and it is highly likely most of it is unecessary and can be removed without affecting the site's look or functionality.
 
 
 
